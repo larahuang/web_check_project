@@ -1,0 +1,1 @@
+import{d as t,h as a,i as n,o as s,a as c,t as r,j as e}from"./index-BHOE04ez.js";const p=t({__name:"about",setup(u){const o=a("About");return n(()=>{}),(i,l)=>(s(),c("div",null,r(o.value),1))}});typeof e=="function"&&e(p);export{p as default};
