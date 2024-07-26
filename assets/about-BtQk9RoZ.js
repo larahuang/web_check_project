@@ -1,0 +1,1 @@
+import{d as t,g as a,h as n,o as s,c,t as r,i as e}from"./index-sJuSaQp0.js";const p=t({__name:"about",setup(u){const o=a("About");return n(()=>{}),(i,l)=>(s(),c("div",null,r(o.value),1))}});typeof e=="function"&&e(p);export{p as default};
