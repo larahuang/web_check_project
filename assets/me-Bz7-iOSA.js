@@ -1,0 +1,1 @@
+import{d as s,o as a,a as o,F as c,b as e,q as t}from"./index-CApYZaz7.js";const n=e("div",{class:"mt-3"},"About Me",-1),_=e("div",{class:"mt-3"},"黃瑄惠",-1),m=e("div",{class:"mt-3"},"lara1105huang@gmail.com",-1),i=s({__name:"me",setup(l){return(r,d)=>(a(),o(c,null,[n,_,m],64))}});typeof t=="function"&&t(i);export{i as default};
