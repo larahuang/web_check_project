@@ -1,1 +1,0 @@
-import{d as t,o as a,a as o,F as n,b as e,q as s}from"./index-BZ9ydQ5b.js";const c=e("div",{class:"mt-3"},[e("b",null,"關於我")],-1),l=e("div",{class:"mt-3"},"黃瑄惠",-1),_=e("div",{class:"mt-3"},"lara1105huang@gmail.com",-1),m=t({__name:"me",setup(i){return(r,d)=>(a(),o(n,null,[c,l,_],64))}});typeof s=="function"&&s(m);export{m as default};
